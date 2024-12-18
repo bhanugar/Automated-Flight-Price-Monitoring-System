@@ -15,9 +15,6 @@ This project is a cloud-based solution for tracking real-time flight prices and 
 - **Azure Logic Apps:** For managing email notifications.
 - **Python:** For writing serverless function logic.
 
-## Architecture
-![System Architecture](architecture-diagram/architecture.png)
-
 ## How It Works
 1. **Data Retrieval:** Azure Functions pull flight price data from an API or dataset.
 2. **Data Storage:** The retrieved data is stored in Azure Blob Storage.
