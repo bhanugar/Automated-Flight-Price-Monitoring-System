@@ -14,7 +14,6 @@ This project is a cloud-based solution for tracking real-time flight prices and 
 - **Azure Functions:** For analyzing ticket prices.
 - **Azure Logic Apps:** For managing email notifications.
 - **Python:** For writing serverless function logic.
-- **Sample Dataset:** Used due to API limitations.
 
 ## Architecture
 ![System Architecture](architecture-diagram/architecture.png)
